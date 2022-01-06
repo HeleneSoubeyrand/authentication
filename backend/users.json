@@ -1,16 +1,1 @@
-[
-    {
-      "id": 1,
-      "username": "jack",
-          "email": "jack@jack.jack",
-      "password": "hello",
-          "age": 99
-    },
-    {
-      "id": 2,
-      "username": "john",
-          "email": "john@john.john",
-      "password": "yoyo",
-          "age": 1
-    }
-]
+[{"id":1,"username":"jack","email":"jack@jack.jack","password":"hello","age":99,"profilePicture":""},{"id":2,"username":"john","email":"john@john.john","password":"yoyo","age":1,"profilePicture":""},{"username":"helenesoubi","email":"helenesoubi@gmail.com","password":"hello","passwordConfirmation":"hello","age":17,"id":3,"profilePicture":""},{"username":"h","email":"h@gmail.com","password":"hello","passwordConfirmation":"hello","age":17,"id":4},{"username":"jacko","email":"jacko@gmail.com","password":"hello","passwordConfirmation":"hello","age":18,"id":5},{"username":"jacko5","email":"jebocal@gmail.com","password":"hello","passwordConfirmation":"hello","age":18,"id":6}]

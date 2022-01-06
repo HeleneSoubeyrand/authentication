@@ -1,4 +1,4 @@
-const verifyUser = (req, res, next) => {
+const connectedUser = (req, res, next) => {
     if (!req.user) { // si mon user est connecté
       res.status(401).send("Unauthorized")
     } else {
@@ -7,5 +7,5 @@ const verifyUser = (req, res, next) => {
 }
   
 module.exports = {
-verifyUser
+  connectedUser
 }
